@@ -170,6 +170,5 @@ OBIS-SEAMAP. Marine Geospatial Ecology Lab, Duke University. https://seamap.env.
 
 ## Author
 **Álvaro Peñuelas**  
-MSc Marine and Lacustrine Science and Management — Ghent University  
-BSc Biology — University of Navarra  
+MSc Marine and Lacustrine Science and Management — Ghent University 
 [LinkedIn](www.linkedin.com/in/álvaro-peñuelas-9116712b8)

@@ -110,7 +110,7 @@ a biological population trend.
     │   ├── 01_data_download.ipynb       # OBIS API data acquisition
     │   ├── 02_data_exploration.ipynb    # Exploratory data analysis
     │   ├── 03_data_cleaning.ipynb       # Data cleaning pipeline
-    │   ├── 04_visualizations.ipynb      # Python visualizations + interactive map
+    │   ├── 04_visualizations.ipynb      # Python visualizations + interactive map ( need to download the file in html format for visualization)
     │   └── 05_statistical_analysis.R    # R statistical analysis & Mann-Kendall test
     ├── figures/
     │   ├── 01_temporal_distribution.png
